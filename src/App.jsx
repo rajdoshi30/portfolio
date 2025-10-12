@@ -1,3 +1,4 @@
+import { Helmet } from 'react-helmet';
 import React from 'react'
 import Hero from './components/01_Hero'
 import About from './components/02_About'
@@ -12,6 +13,16 @@ import TopNav from './components/TopNav'
 export default function App(){
   return (
     <div className="font-sans antialiased">
+    <Helmet>
+    <title>Raj Doshi | Marketing Analyst & Digital Strategy Expert</title>
+     <meta
+      name="description"
+      content="Official portfolio of Raj Doshi — a marketing and data-driven strategist specializing in performance media, digital marketing, and analytics. Explore work, experience, and connect now!"
+  />
+  <meta name="keywords" content="Raj Doshi, Marketing Analyst, Digital Marketing, Performance Media, Portfolio, SEO, Paid Media, Performance Marketing, Marketing Automation, Email Marketing, Omni-channel Marketing, Paid Search, Paid Social, Analytics" />
+  <meta name="author" content="Raj Doshi" />
+</Helmet>
+
       <TopNav />
       <main className="w-full">
         <Hero />
