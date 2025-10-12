@@ -48,3 +48,4 @@ npm run build
 ## Notes / Next steps
 - Replace placeholder assets in `/public/assets/` (logo files, photo placeholder).
 - If you want advanced 3D models, use GLTF in `/public/models/` or use Spline separately.
+# trigger
