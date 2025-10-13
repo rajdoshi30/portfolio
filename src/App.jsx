@@ -15,7 +15,7 @@ export default function App(){
     <div className="font-sans antialiased">
     
 <Helmet>
-  <title>Raj Doshi | Marketing Analyst & Digital Strategy Expert</title>
+  <title>Raj Doshi | Marketing Analyst & Digital Strategy Expert test</title>
   <meta name="description" content="Official portfolio of Raj Doshi — a marketing and data-driven strategist specializing in performance media, digital marketing, and analytics. Explore work, experience, and connect now!" />
   <meta name="keywords" content="Raj Doshi, Marketing Analyst, Digital Marketing, Performance Media, Portfolio, SEO, Paid Media, Performance Marketing, Marketing Automation, Email Marketing, Omni-channel Marketing, Paid Search, Paid Social, Analytics" />
   <meta name="author" content="Raj Doshi" />
