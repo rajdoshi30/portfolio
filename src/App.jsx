@@ -9,7 +9,6 @@ import Projects from './components/06_Projects'
 import Contact from './components/07_Contact'
 import Footer from './components/08_Footer'
 import TopNav from './components/TopNav'
-import React from "react";
 import { motion } from "framer-motion";
 import "./styles/tailwind.css";
 
