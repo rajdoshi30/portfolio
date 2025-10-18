@@ -3,10 +3,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#00E5FF',
-        accent: '#FF6B6B',
-        bg: '#0b0f14'
-      }
+  'bg-primary': '#0b0f14',
+  'text-default': '#e5e7eb' // light grey
+        }
     }
   },
   plugins: []
